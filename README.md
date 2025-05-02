@@ -62,13 +62,8 @@ java Contador
 
 Este tipo de lógica pode ser aplicada em situações onde você precisa **validar faixas de entrada numérica antes de iniciar um processamento em lote**, como em **geração de relatórios**, **paginação de dados**, ou **controle de loops baseados em intervalos configuráveis**.
 
----
 
-## 👨‍💻 Autor
 
-Feito por [Seu Nome] — sinta-se à vontade para entrar em contato!
-
----
 
 ## 📄 Licença
 
